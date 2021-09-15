@@ -18,13 +18,14 @@ box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.41);"></div>
                 </div>
                 <div class="col-md-7">
                     <div class="card-body">
-                        <h5 class="card-title"><%= campground.title %> </h5>
-                        <p class="card-text"><%= campground.description %></p>
+                        <h5 class="card-title mb-0"><%= campground.title %> </h5>
                         <p class="card-text">
                             <small class="text-muted"><%= campground.location%></small>
                         </p>
+                        <p class="card-text"><%= campground.description %></p>
                         <a class="btn mt-4" style="background-color: #005826; color: #fff;"
-                            href="/campgrounds/<%=campground._id%>">View <%=campground.title%></a>
+                            href="/campgrounds/<%=campground._id%>">View
+                            <%=campground.title%></a>
                     </div>
                 </div>
             </div>
