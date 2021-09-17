@@ -35,20 +35,20 @@ Once you have Node.js and MongoDB installed on your computer,
 ### Front-end
 
 - [Bootstrap](https://getbootstrap.com/) - front-end open source toolkit
-- [ejs](https://ejs.co/) - Embedded JavaScript templating
+- [Ejs](https://ejs.co/) - Embedded JavaScript templating
 - [Google Maps APIs](https://developers.google.com/maps/) - 
 
 ### Back-end
 
-- [Node.js](https://nodejs.org) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-- [express](https://expressjs.com//) - Fast, unopinionated, minimalist web framework for Node.js
-- [express-session](https://github.com/expressjs/session#express-session) - create a session middleware
-- [MongoDB](https://www.mongodb.com/) - The database for modern applications
-- [Mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js
-- [helmet](https://helmetjs.github.io/) - Helmet helps you secure your Express apps by setting various HTTP headers.
-- [passport](http://www.passportjs.org/) - Passport is [Express](https://expressjs.com//)-compatible authentication middleware for Node.js.
-- [passport-local](https://github.com/jaredhanson/passport-local#passport-local) - 
-- [nodemailer](https://nodemailer.com/about/) - Passport strategy for authenticating with a username and password.
-- [moment](https://momentjs.com/) - A JavaScript date library for parsing, validating, manipulating, and formatting dates.
-- [geocoder](https://github.com/wyattdanger/geocoder#geocoder) - pass string representation of a location and a callback function
+- [Node.js](https://nodejs.org) - JavaScript runtime built on Chrome's V8 JavaScript engine
+- [Express](https://expressjs.com//) - fast, unopinionated, minimalist web framework for Node.js
+- [Express-Session](https://github.com/expressjs/session#express-session) - create a session middleware
+- [MongoDB](https://www.mongodb.com/) - database for modern applications
+- [Mongoose](https://mongoosejs.com/) - elegant MongoDB object modeling for Node.js
+- [Helmet](https://helmetjs.github.io/) - Helmet helps you secure your Express apps by setting various HTTP headers
+- [Passport](http://www.passportjs.org/) - Passport is [Express](https://expressjs.com//)-compatible authentication middleware for Node.js
+- [Passport-local](https://github.com/jaredhanson/passport-local#passport-local) - Passport strategy for authenticating with a username and password.****
+- [Nodemailer](https://nodemailer.com/about/) - send e-mails from Node.js
+- [Moment](https://momentjs.com/) - JavaScript date library for parsing, validating, manipulating, and formatting dates.
+- [Geocoder](https://github.com/wyattdanger/geocoder#geocoder) - pass string representation of a location and a callback function
 
