@@ -1,85 +1,45 @@
 
+![yc-home](https://user-images.githubusercontent.com/31117834/133856387-6a25ab9f-f98b-4a8f-84e8-91a845f6b2bc.jpg)
 
-# YelpCamp
+# yelpcamp
 
-> A Node.js web application project from the Udemy course - [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/)
+![](yelpcamphome.PNG)
 
-## Live Demo
+Yelpcamp is fully functional NodeJs web app
 
+This is a camping ground website which was actually developed during a code-along
+while following the-web-developer-bootcamp.
 
-## Features
+With yelpcamp, one can create and view data related to botcamps you know, including a picture of the bootcamp.
 
-* Authentication:
-  
-  * User login with username and password
-
-  * Admin sign-up with admin code
-
-* Authorization:
-
-  * One cannot manage posts and view user profile without being authenticated
-
-  * One cannot edit or delete posts and comments created by other users
-
-  * Admin can manage all posts and comments
-
-* Manage campground posts with basic functionalities:
-
-  * Create, edit and delete posts and comments
-
-  * Upload campground photos
-
-  * Display campground location on Google Maps
-  
-  * Search existing campgrounds
-
-* Manage user account with basic functionalities:
-
-  * ~~Password reset via email confirmation~~ (disabled)
-
-  * Profile page setup with sign-up
-
-* Flash messages responding to users' interaction with the app
-
-* Responsive web design
-
-### Custom Enhancements
-
-* Update campground photos when editing campgrounds
-
-* Update personal information on profile page
-
-* Improve image load time on the landing page using Cloudinary
-
-* Use Helmet to strengthen security
- 
 ## Getting Started
 
-> This app contains API secrets and passwords that have been hidden deliberately, so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
+### Prerequisites
 
-### Clone or download this repository
+1. **Node.js** for running server-side JavaScript. You can find instructions on how to download and install Node.js for your computer [here](https://nodejs.org/en/download/)
 
-```sh
-git clone https://github.com/lucasweng/yelp-camp.git
-```
+2. **MongoDB** (Community Edition preferrably) to store data. Instructions on downloading and installing MongoDB on your computer can be found [here](https://docs.mongodb.com/manual/installation/)
 
-### Install dependencies
+### Installing
 
-```sh
-npm install
-```
+Once you have Node.js and MongoDB installed on your computer,
 
-or
+1. [download](https://github.com/ZMoberg/yelpcamp/archive/master.zip) the project or clone it to your computer by running `git clone https://github.com/ZMoberg/yelpcamp.git` on your Git terminal.
+2. In the directory of the folder `yelpcamp` containing the files of the repositiory, open up the terminal and run `npm install`
+3. Once installation is complete, run `npm start` on the same terminal.
+4. Open your web browser and visit the address `localhost:3000` and voila!
+5. Guest access available with login Guest / guest
 
-```sh
-yarn install
-```
+## Built With
 
-### Comments in code
+- [Node.js](https://nodejs.org) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [express](https://expressjs.com//) - Fast, unopinionated, minimalist web framework for Node.js
+- [MongoDB](https://www.mongodb.com/) - The database for
+  modern applications
+- [Mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js
+- [ejs](https://ejs.co/) - Embedded JavaScript templating
 
-Some comments in the source code are course notes and therefore might not seem necessary from a developer's point of view.
 
-## Built with
 
 ### Front-end
 
