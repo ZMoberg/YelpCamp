@@ -1,16 +1,10 @@
 
 ![yc-home](https://user-images.githubusercontent.com/31117834/133856387-6a25ab9f-f98b-4a8f-84e8-91a845f6b2bc.jpg)
 
-# yelpcamp
+<div align="center"> <h1>YelpCamp</h1> </div>
 
-![](yelpcamphome.PNG)
-
-Yelpcamp is fully functional NodeJs web app
-
-This is a camping ground website which was actually developed during a code-along
-while following the-web-developer-bootcamp.
-
-With yelpcamp, one can create and view data related to botcamps you know, including a picture of the bootcamp.
+A full stack web application built using [Node.js](https://nodejs.org/en/download/) for users to share and review campgrounds. <br><br>
+Create a custom account to add a new campground, upload pictures, share the location and review your experience of the campsites they visit. 
 
 ## Getting Started
 
