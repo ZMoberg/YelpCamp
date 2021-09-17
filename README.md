@@ -32,41 +32,24 @@ Once you have Node.js and MongoDB installed on your computer,
 
 ## Built With
 
-- [Node.js](https://nodejs.org) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-- [express](https://expressjs.com//) - Fast, unopinionated, minimalist web framework for Node.js
-- [MongoDB](https://www.mongodb.com/) - The database for
-  modern applications
-- [Mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js
-- [ejs](https://ejs.co/) - Embedded JavaScript templating
-
-
-
 ### Front-end
 
-* [ejs](http://ejs.co/)
-* [Google Maps APIs](https://developers.google.com/maps/)
-* [Bootstrap](https://getbootstrap.com/docs/3.3/)
+- [Bootstrap](https://getbootstrap.com/) - front-end open source toolkit
+- [ejs](https://ejs.co/) - Embedded JavaScript templating
+- [Google Maps APIs](https://developers.google.com/maps/) - 
 
 ### Back-end
 
-* [express](https://expressjs.com/)
-* [mongoDB](https://www.mongodb.com/)
-* [mongoose](http://mongoosejs.com/)
-* [async](http://caolan.github.io/async/)
-* [crypto](https://nodejs.org/api/crypto.html#crypto_crypto)
-* [helmet](https://helmetjs.github.io/)
-* [passport](http://www.passportjs.org/)
-* [passport-local](https://github.com/jaredhanson/passport-local#passport-local)
-* [express-session](https://github.com/expressjs/session#express-session)
-* [method-override](https://github.com/expressjs/method-override#method-override)
-* [nodemailer](https://nodemailer.com/about/)
-* [moment](https://momentjs.com/)
-* [cloudinary](https://cloudinary.com/)
-* [geocoder](https://github.com/wyattdanger/geocoder#geocoder)
-* [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
+- [Node.js](https://nodejs.org) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [express](https://expressjs.com//) - Fast, unopinionated, minimalist web framework for Node.js
+- [express-session](https://github.com/expressjs/session#express-session) - 
+- [MongoDB](https://www.mongodb.com/) - The database for
+  modern applications
+- [Mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js
+- [helmet](https://helmetjs.github.io/) - 
+- [passport](http://www.passportjs.org/) - 
+- [passport-local](https://github.com/jaredhanson/passport-local#passport-local) -
+- [nodemailer](https://nodemailer.com/about/) - 
+- [moment](https://momentjs.com/) - 
+- [geocoder](https://github.com/wyattdanger/geocoder#geocoder) - 
 
-### Platforms
-
-* [Cloudinary](https://cloudinary.com/)
-* [Heroku](https://www.heroku.com/)
-* [Cloud9](https://aws.amazon.com/cloud9/?origin=c9io)
