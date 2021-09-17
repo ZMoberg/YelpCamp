@@ -42,14 +42,13 @@ Once you have Node.js and MongoDB installed on your computer,
 
 - [Node.js](https://nodejs.org) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [express](https://expressjs.com//) - Fast, unopinionated, minimalist web framework for Node.js
-- [express-session](https://github.com/expressjs/session#express-session) - 
-- [MongoDB](https://www.mongodb.com/) - The database for
-  modern applications
+- [express-session](https://github.com/expressjs/session#express-session) - create a session middleware
+- [MongoDB](https://www.mongodb.com/) - The database for modern applications
 - [Mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js
-- [helmet](https://helmetjs.github.io/) - 
-- [passport](http://www.passportjs.org/) - 
-- [passport-local](https://github.com/jaredhanson/passport-local#passport-local) -
-- [nodemailer](https://nodemailer.com/about/) - 
-- [moment](https://momentjs.com/) - 
-- [geocoder](https://github.com/wyattdanger/geocoder#geocoder) - 
+- [helmet](https://helmetjs.github.io/) - Helmet helps you secure your Express apps by setting various HTTP headers.
+- [passport](http://www.passportjs.org/) - Passport is [Express](https://expressjs.com//)-compatible authentication middleware for Node.js.
+- [passport-local](https://github.com/jaredhanson/passport-local#passport-local) - 
+- [nodemailer](https://nodemailer.com/about/) - Passport strategy for authenticating with a username and password.
+- [moment](https://momentjs.com/) - A JavaScript date library for parsing, validating, manipulating, and formatting dates.
+- [geocoder](https://github.com/wyattdanger/geocoder#geocoder) - pass string representation of a location and a callback function
 
