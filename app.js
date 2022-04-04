@@ -107,6 +107,7 @@ const connectSrcUrls = [
     "https://events.mapbox.com/",
 ];
 const fontSrcUrls = [];
+
 app.use(
     helmet.contentSecurityPolicy({
         directives: {
